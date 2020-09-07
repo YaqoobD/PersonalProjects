@@ -14,3 +14,9 @@ I participated in these challenges to better understand how to communicate data 
 ### [Workout Wednesday](http://www.workout-wednesday.com/)
 
 > **Workout Wednesday** is a weekly challenge to re-create a data-driven visualization. The challenges are designed to grow participants knowledge of Tableau and help kick-start personal development. Each Wednesday a challenge is release and participants are asked to replicate the challenge that is posed as closely as possible.
+
+## Examples
+
+Below is some of my work from makeover Monday & Workout Wednesday and some other datasets on tableau. 
+
+#### Count of WorldCups and sum of QualifiedTeams for each Country broken down by Winner and Runners-Up.  Color shows average of GoalsScored.  The marks are labeled by Year.
